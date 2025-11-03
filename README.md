@@ -1,10 +1,8 @@
 
-# SCT_WD_3
-
 # 🎮 TIC-TAC-TOE WEB APPLICATION
 
 ## 📌 Overview
-This project is a responsive and interactive **Tic-Tac-Toe Web App** developed as part of the SkillCraft Technology Web Development Internship. It allows users to play:
+This project is a responsive and interactive **Tic-Tac-Toe Web App**  It allows users to play:
 - 🔁 **Player vs Player (PvP) Mode**
 - 🤖 **Player vs Computer (AI) Mode**
 
@@ -29,6 +27,6 @@ The game tracks moves, checks for win/draw conditions, and provides animated fee
 
 ## 🚀 How to Run the Project
 
-  🔗 [Click here](https://fejoejs.github.io/SCT_WD_3/)
+  🔗 [Click here](https://fejoejs.github.io/TIC-TAC-TOE-WEB-APPLICATION/)
 
 
